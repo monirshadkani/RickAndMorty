@@ -23,4 +23,4 @@
         android:background="?attr/selectableItemBackgroundBorderless"
         android:src="@android:drawable/ic_menu_close_clear_cancel"
         android:layout_gravity="start" />
-</androidx.appcompat.widget.Toolbar>
+    </androidx.appcompat.widget.Toolbar>

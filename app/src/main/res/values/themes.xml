@@ -1,8 +1,15 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
+    <!-- Base application theme -->
     <style name="Base.Theme.RickAndMorty" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!-- Customize your light theme here -->
+        <item name="colorPrimary">@color/portalGreen</item>
+        <item name="colorPrimaryVariant">@color/electricBlue</item>
+        <item name="colorOnPrimary">@color/black</item>
+        <item name="colorSecondary">@color/electricBlue</item>
+        <item name="colorSecondaryVariant">@color/darkGray</item>
+        <item name="colorOnSecondary">@color/black</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:textColor">@color/portalGreen</item>
     </style>
 
     <style name="Theme.RickAndMorty" parent="Base.Theme.RickAndMorty" />
